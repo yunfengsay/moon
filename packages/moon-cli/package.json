@@ -1,0 +1,25 @@
+{
+	"name": "moon-cli",
+	"version": "1.0.0-beta.7",
+	"description": "Moon CLI for creating applications",
+	"main": "dist/moon-cli.min.js",
+	"bin": {
+		"moon": "dist/moon-cli.min.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/kbrsh/moon.git"
+	},
+	"keywords": [
+		"moon",
+		"CLI",
+		"create",
+		"application"
+	],
+	"author": "Kabir Shah",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/kbrsh/moon/issues"
+	},
+	"homepage": "https://github.com/kbrsh/moon#readme"
+}

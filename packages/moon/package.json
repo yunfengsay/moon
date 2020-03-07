@@ -1,0 +1,25 @@
+{
+	"name": "moon",
+	"version": "1.0.0-beta.7",
+	"description": "The minimal & fast library for functional user interfaces",
+	"main": "dist/moon.min.js",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/kbrsh/moon.git"
+	},
+	"keywords": [
+		"moon",
+		"minimal",
+		"fast",
+		"library",
+		"functional",
+		"user interface",
+		"UI"
+	],
+	"author": "Kabir Shah",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/kbrsh/moon/issues"
+	},
+	"homepage": "https://github.com/kbrsh/moon#readme"
+}
